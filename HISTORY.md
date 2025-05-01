@@ -3,7 +3,7 @@
 A history of networks in the file will be kept here.
 
 
-## [net02] - 4/30/25
+## **net02** - 4/30/25
 
 ### Initial release
 
@@ -21,7 +21,7 @@ Penta | [59, 1877, 4177, 2016, 97]
 https://chess.drpowell.org/test/529/
 ```
 
-## [net01] - 4/28/25
+## **net01** - 4/28/25
 
 ### Initial release
 
