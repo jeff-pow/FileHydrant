@@ -28,7 +28,7 @@ https://chess.drpowell.org/test/529/
 - First Titan network in an external repository
 - Architecture: `(768x9 -> 1536)x2 -> 1`
 - 600 SB from 1e-3 to 1e-7 LR with an exponential scheduler
-- Weights initialized from a checkpoint from a previous training run, so good luck reproducing this...
+- Weights were inadvertently initialized from a checkpoint from a previous training run, so good luck reproducing this...
 
 ```
 Elo   | 2.11 +- 1.70 (95%)
